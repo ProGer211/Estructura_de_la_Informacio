@@ -1,0 +1,10 @@
+//Multiconjunt implementat amb una llista simplement encadenada
+//sense fantasma i no circular i els elements ordenats de menor a major
+ struct node {
+       int info;
+       node* seg;
+     };
+     node* _ult; //Apunta al primer element de la llista
+     node* _prim; // Apunta al ultim element de la llista
+     unsigned int _mida; //el nombre d’elements (la cardinalitat) del multiconjunt.
+

@@ -1,0 +1,8 @@
+5 -3 8 2 -1 7 -7 -6
+successor 5
+successor -3
+successor -7
+successor 2
+successor -1
+successor 7
+successor -6

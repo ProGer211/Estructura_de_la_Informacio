@@ -1,0 +1,14 @@
+successors 0:
+successors 1:
+predecessors 0:
+predecessors 1:
+insereix 0 1:
+successors 0: 1
+successors 1:
+predecessors 0:
+predecessors 1: 0
+insereix 1 0:
+successors 0: 1
+successors 1: 0
+predecessors 0: 1
+predecessors 1: 0

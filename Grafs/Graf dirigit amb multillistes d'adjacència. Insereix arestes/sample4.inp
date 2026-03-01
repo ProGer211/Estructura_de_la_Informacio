@@ -1,0 +1,21 @@
+6
+insereix 1 5
+insereix 1 0
+insereix 3 1
+insereix 4 0
+insereix 0 5
+insereix 5 1
+insereix 2 3
+insereix 1 0
+successors 0
+successors 1
+successors 2
+successors 3
+successors 4
+successors 5
+predecessors 0
+predecessors 1
+predecessors 2
+predecessors 3
+predecessors 4
+predecessors 5

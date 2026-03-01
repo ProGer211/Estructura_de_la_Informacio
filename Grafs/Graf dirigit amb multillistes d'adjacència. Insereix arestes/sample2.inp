@@ -1,0 +1,11 @@
+3
+insereix 0 2
+insereix 0 1
+insereix 1 2
+insereix 0 2
+successors 0
+successors 1
+successors 2
+predecessors 0
+predecessors 1
+predecessors 2
